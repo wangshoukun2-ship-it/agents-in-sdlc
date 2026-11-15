@@ -3,7 +3,6 @@ title: "练习 6 - 迭代 GitHub Copilot 的工作"
 authors:
   - geektrainer
 lastUpdated: 2026-06-30
-next: false
 ---
 
 | [← 上一课：监控和管理代理][previous-lesson] |

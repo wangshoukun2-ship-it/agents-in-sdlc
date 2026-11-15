@@ -1,9 +1,10 @@
 ---
 slug: zh-cn/real-world-development/app
 title: "GitHub Copilot app"
+description: "通过 GitHub Copilot app 构建并交付 Tailspin Toys 的两项更改，并学习工作区、智能体会话、质量工作流和画布。"
 authors:
   - geektrainer
-lastUpdated: 2026-09-17
+lastUpdated: 2026-10-22
 ---
 
 [**GitHub Copilot app**](https://docs.github.com/copilot/concepts/agents/github-copilot-app) 是一款基于 Copilot CLI 构建的桌面应用，可将智能体驱动的开发集中到统一且专注的工作区。它支持并行智能体会话、可切换的会话模式、共享画布，以及原生的 GitHub 议题和拉取请求管理功能。其中包括 **Agent Merge**，可引导拉取请求完成变基、处理审查反馈、修复持续集成 (CI) 问题并执行合并。
@@ -35,7 +36,7 @@ lastUpdated: 2026-09-17
 | [6. 使用 Playwright MCP 验证功能][ex6] | 浏览器观察 | 通过 Customize 配置 MCP，并检查筛选行为 |
 | [7. 创建并使用 QA 智能体][ex7] | 需求与覆盖 | 选择专业配置文件，收集最终验证证据 |
 | [8. 创建并合并功能 PR][ex8] | 审查与合并 | 审查筛选功能、指令、技能、QA 配置文件和测试，再对第二个 PR 使用 Agent Merge |
-| [9. 探索并创建画布][ex9] | 协作 | 使用 Database Explorer，再创建并测试由存储库支持的分类画布 |
+| [9. 探索并创建画布][ex9] | 协作 | 使用 Database Explorer，再创建并测试由存储库支持的分类画布。如果所需功能不可用，请记录阻碍并使用只读替代方案，或继续查看总结 |
 | [10. 总结与后续步骤][ex10] | 总结 | 回顾工作流、产出及更多资源 |
 
 ## 先决条件
